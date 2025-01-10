@@ -1,0 +1,55 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE and editor folders
+.vscode/
+.idea/
+
+# Pytest
+.cache/
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Distribution and packaging
+*.egg
+*.egg-info/
+dist/
+build/
+pip-wheel-metadata/
+
+# Cython build directory
+cython_debug/
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Pylint
+.pylint.d/
+
+# Coverage directory
+.coverage
+.coverage.*
+
+# Pytest cache
+.cache/
+
+# Local settings
+.local/
+
+# SQLAlchemy specific
+instance/
+.sqlalchemy/
+
+database.db
