@@ -29,6 +29,7 @@ This project is a web application built with FastAPI that provides a blogging pl
 - **PassLib**: A password hashing library, used for securely storing user passwords.
 - **Pydantic**: For settings management and input validation.
 - **UV** : python package manager
+- **Alembic** : for database migrations
 
 ---
 
